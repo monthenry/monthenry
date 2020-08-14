@@ -56,7 +56,6 @@
 
 <!--➡️ [more videos...](https://youtube.com/codestackr)-->
 
----
 
 ### 📕 Interesting resources
 
@@ -83,7 +82,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="32devstudio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=32devstudio&show_icons=true&hide_border=true" />
+  <img align="center" alt="32devstudio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=32devstudio&show_icons=true&hide_border=true" />
 
 </details>
 
