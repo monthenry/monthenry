@@ -1,6 +1,6 @@
-### Hi there, I'm Henry - aka [32devstudio][instagram] 👋
+## Hi there, I'm Henry - aka [32devstudio][instagram] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student, and a Developer !
 
 - 🔭 I’m currently working on a [website][website] intended to help restaurants!
 - 🌱 I’m currently learning everything 🤣
