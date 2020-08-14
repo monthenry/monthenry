@@ -39,37 +39,13 @@
 
 <br />
 
----
-
-<!--### 📺 Latest YouTube Videos-->
-
-<!-- YOUTUBE:START -->
-
-<!--
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
--->
-<!-- YOUTUBE:END -->
-
-<!--➡️ [more videos...](https://youtube.com/codestackr)-->
-
-
 ### 📕 Interesting resources
-
-<!-- BLOG-POST-LIST:START -->
 
 - [GodotEngine: High level multiplayer](https://docs.godotengine.org/en/3.1/tutorials/networking/high_level_multiplayer.html)
 - [OpenClassroom : Apprenez à programmer en python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 - [OpenClassroom : Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)
 
-<!-- BLOG-POST-LIST:END -->
-
-<!--➡️ [more blog posts...](https://codestackr.com)-->
-
----
+</br>
 
 <!--details>
   <summary>:zap: Recent Github Activity</summary>
