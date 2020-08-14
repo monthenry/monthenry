@@ -1,6 +1,6 @@
 ## Hi there, I'm Henry - aka [32devstudio][instagram] 👋
 
-### I'm a Student, and a Developer !
+### I'm a Student, a Developer and the co-founder of the startup OnTable !
 
 - 🔭 I’m currently working on a [website][website] intended to help restaurants!
 - 🌱 I’m currently learning javascript.
