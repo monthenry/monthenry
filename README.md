@@ -28,7 +28,7 @@
 
 ---
 
-### 📕 Interesting resources
+### Interesting resources
 
 - [GodotEngine: High level multiplayer](https://docs.godotengine.org/en/3.1/tutorials/networking/high_level_multiplayer.html)
 - [OpenClassroom : Apprenez à programmer en python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
