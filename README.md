@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, I'm Henry Mont :
+### Hello, I'm Henry Mont ! 👋
 
 - 🔭 I’m currently working on the website ontable.fr .
 - 🌱 I’m currently learning javascript.
