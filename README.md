@@ -8,6 +8,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and music (especially accordion).
 
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="ontable.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,6 +21,8 @@
 [<img align="left" alt="32devstudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -39,28 +45,19 @@
 
 <br />
 
+---
+
 ### 📕 Interesting resources
 
 - [GodotEngine: High level multiplayer](https://docs.godotengine.org/en/3.1/tutorials/networking/high_level_multiplayer.html)
 - [OpenClassroom : Apprenez à programmer en python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 - [OpenClassroom : Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)
 
-</br>
+<br />
 
-<!--details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->  
-  <!--END_SECTION:activity-->
+---
 
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="center" alt="32devstudio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=32devstudio&show_icons=true&hide_border=true" />
-
-</details>
+<img align="center" alt="32devstudio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=32devstudio&show_icons=true&hide_border=true" />
 
 [website]: https://ontable.fr
 [twitter]: https://twitter.com/
