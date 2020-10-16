@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a [website][website] intended to help restaurants!
 - 🌱 I’m currently learning javascript.
-- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects !
 - ⚡ Fun fact: I love sports and music (especially accordion).
 
