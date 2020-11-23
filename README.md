@@ -2,7 +2,7 @@
 
 ### I'm a Student, a Developer and the co-founder of the startup OnTable !
 
-- 🔭 I’m currently working on a [website][website] intended to help restaurants!
+- 🔭 I’m currently working on a [website][ontable] intended to help restaurants!
 - 🌱 I’m currently learning javascript.
 - 🥅 2020 Goals: Contribute more to Open Source projects !
 - ⚡ Fun fact: I love sports and music (especially accordion).
@@ -42,7 +42,8 @@
 
 <img align="center" alt="32devstudio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=32devstudio&show_icons=true&hide_border=true" />
 
-[website]: https://ontable.fr
+[website]: https://32devstudio.github.io/
+[ontable]: https://ontable.fr
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/32devstudio
