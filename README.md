@@ -22,12 +22,6 @@
 
 <br />
 
-### Interesting resources
-
-- [GodotEngine: High level multiplayer](https://docs.godotengine.org/en/3.1/tutorials/networking/high_level_multiplayer.html)
-- [OpenClassroom : Apprenez à programmer en python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
-- [OpenClassroom : Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)
-
 ### Connect with me:
 
 [<img align="left" alt="ontable.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
