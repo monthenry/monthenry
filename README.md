@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [website][ontable] intended to help restaurants!
 - 🌱 I’m currently learning javascript.
-- 🥅 2020 Goals: Contribute more to Open Source projects !
+- 🥅 2021 Goals: Get out of my comfort zone by learning new languages !
 - ⚡ Fun fact: I love sports and music (especially accordion).
 
 ### Languages and Tools:
