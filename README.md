@@ -3,8 +3,8 @@
 ### I'm a Student, a Developer and the co-founder of the startup OnTable !
 
 - 🔭 I’m currently working on a [website][ontable] intended to help restaurants!
-- 🌱 I’m currently learning javascript.
-- 🥅 2021 Goals: Get out of my comfort zone by learning new languages !
+- 🌱 I’m learning AngularJS
+- 🥅 2021 Goals: Get out of my comfort zone by using new languages !
 - ⚡ Fun fact: I love sports and music (especially accordion).
 
 ### Languages and Tools:
