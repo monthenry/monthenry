@@ -1,11 +1,11 @@
 ## Hi there, I'm Henry 👋
 
-### I'm a Student, a Developer and the co-founder of the startup OnTable !
+### I'm a french Computer Science student !
 
-- 🔭 I’m currently working on a [website][ontable] intended to help restaurants!
-- 🌱 I’m learning AngularJS
-- 🥅 2021 Goals: Get out of my comfort zone by using new languages !
-- ⚡ Fun fact: I love sports and music (especially accordion).
+- 🔭 I’m currently looking for a 3 month internship (would love to work with Machine Learning and/or Python)!
+- 🌱 I’m learning Pytorch
+- 🥅 2022 Goals: Contribute to open source projects !
+- ⚡ Fun fact: I love sports and music.
 
 ### Languages and Tools:
 
@@ -40,7 +40,7 @@
 [ontable]: https://ontable.fr
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/32devstudio
+[instagram]: https://instagram.com/m0nhenry
 [linkedin]: https://linkedin.com/in/henry-mont-30b6971a6/
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
