@@ -1,4 +1,4 @@
-## Hi there, I'm Henry - aka [32devstudio][instagram] 👋
+## Hi there, I'm Henry 👋
 
 ### I'm a Student, a Developer and the co-founder of the startup OnTable !
 
