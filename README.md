@@ -1,16 +1,8 @@
 ## Hi there, I'm Henry 👋
 
-### I'm a french Computer Science student !
-
 - I study at INSA Lyon, an engineering school.
 - I’m currently looking for a 3 month internship (would love to work with Machine Learning and/or Blockchain)!
 - I’m learning Pytorch.
-
-### Connect with me:
-
-[<img align="left" alt="ontable.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Henry Mont | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="32devstudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
