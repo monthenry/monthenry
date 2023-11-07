@@ -4,10 +4,6 @@
 - I’m currently looking for a 3 month internship (would love to work with Machine Learning and/or Blockchain)!
 - I’m learning Pytorch.
 
----
-
-<img align="center" alt="monthenry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=monthenry&show_icons=true&hide_border=true" />
-
 [website]: https://32devstudio.github.io/
 [ontable]: https://ontable.fr
 [instagram]: https://instagram.com/m0nhenry
