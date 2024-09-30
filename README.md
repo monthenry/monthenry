@@ -1,10 +1,10 @@
-## Hi there, I'm Henry 👋
+# Hi, I'm Henry Mont 👋
 
-- I study at INSA Lyon, an engineering school.
-- I’m currently looking for a 4 month internship (would love to work with Machine Learning and/or Blockchain)!
-- I’m currently learning Hyperledger Fabric.
+Welcome to my GitHub! I'm currently pursuing a **Master's in Computer Science at INSA Lyon** and a **Bachelor's Degree in Economy at Université Paris Dauphine-PSL**. I have a strong passion for **decentralized systems, blockchain technologies**, and **data engineering**, with hands-on experience in both academic and professional environments.
 
-[website]: https://32devstudio.github.io/
-[ontable]: https://ontable.fr
-[instagram]: https://instagram.com/m0nhenry
-[linkedin]: https://linkedin.com/in/henry-mont-30b6971a6/
+Feel free to explore my repositories, which cover various projects.
+
+## 🌍 Connect with Me
+- **LinkedIn**: [linkedin.com/in/monthenry](https://www.linkedin.com/in/monthenry)
+- **Portfolio**: [monthenry.github.io](https://monthenry.github.io/)
+- **StackOverflow**: [stackoverflow.com/users/monthenry](https://stackoverflow.com/users/14104136/henry-mont)
